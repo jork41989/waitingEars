@@ -1,6 +1,1 @@
-keys_dev.js
-/node_modules
-./config/keys_dev.js
-config/keys_dev.js
-.env
-config/keys_dev.js
+node_modules
